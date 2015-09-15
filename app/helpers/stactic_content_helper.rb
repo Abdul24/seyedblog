@@ -1,0 +1,2 @@
+module StacticContentHelper
+end
